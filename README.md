@@ -9,7 +9,7 @@ The following needs to be prepared:
 
 ## Script
 
-You have installed [Rust][rust-lang] so lets use it to compile a rust program. Open a file `hello.rs` and enter the following code
+We have installed [Rust][rust-lang] so lets use it to compile a rust program. Open a file `hello.rs` and enter the following code
 
 ```rust
 fn main() {
